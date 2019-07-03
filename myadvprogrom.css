@@ -1,0 +1,19 @@
+body
+{
+font-family: arial;
+text-align: center;
+font-size: 14px;
+}
+
+.design
+{
+text-align : left;	
+color: #12b1ff;
+}
+
+#forbuttondesign button
+{
+background-color: #ff0000;
+font-size : 17px;	
+line-height : 22px;
+}
